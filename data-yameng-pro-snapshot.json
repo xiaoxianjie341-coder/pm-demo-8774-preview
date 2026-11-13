@@ -1,0 +1,1807 @@
+{
+  "asOf": "2026-11-12",
+  "dailyThru": "2026-11-12",
+  "review": {
+    "projectId": "yameng-pro",
+    "name": "雅萌闪修仪 Pro",
+    "brandLine": "雅萌 · 闪修仪 Pro",
+    "owner": "图图（胡爱茹）",
+    "deadline": null,
+    "launchDate": "2026-01-24",
+    "campaignEnd": null,
+    "asOf": "2026-11-12",
+    "dailyThru": "2026-11-12",
+    "spend": {
+      "used": 1661335.22,
+      "usedNote": "FS 现金结算合计（col S），1/24–10/19，不含 K、不含 CID。HTML vTodaySpendBlock 把 spend.used 当 usedFS。",
+      "budget": null,
+      "budgetFS": null,
+      "budgetFSNote": "没有找到与「YTD FS 包」一一对应、已签字的预算格。每日「账户规划」同期合计 ¥1,727,994.98，只作对照，不当正式 budgetFS。11/06 纪要「249.9 万 KFS 合并」未在表内对上，不写入 budget。",
+      "planFS": 1727994.98,
+      "planFSNote": "同期每日账户规划合计（col E），口径与现金结算不完全同一。",
+      "budgetK": 32481.9,
+      "budgetKPeriod": "2026-11 小红星 34 人品牌结算价合计，不是全年 K 包",
+      "usedK": 25204.23,
+      "usedKPeriod": "2026-11 已发布 23 行结算价合计，asOf 2026-11-12",
+      "f": 1227582.09,
+      "s": 430691.84,
+      "fNote": "现金结算·信息流 col T，1/24–10/19",
+      "sNote": "现金结算·搜索 col U，1/24–10/19",
+      "spendPct": null,
+      "timePct": null,
+      "timePctNote": "无项目结束日（基础表为空），不算时程百分比，避免虚构。",
+      "asOf": "2026-10-19",
+      "dailyThru": "2026-10-19",
+      "day20261019": 14216.22,
+      "day20261019F": 9358.27,
+      "day20261019S": 4710.23,
+      "accountUsedYtd": 1687629.87,
+      "accountF": 1238589.72,
+      "accountS": 431607.44,
+      "monthlyAccountUsed": {
+        "2026-01": 24335.22,
+        "2026-02": 312062.19,
+        "2026-03": 165422.11,
+        "2026-04": 59416.25,
+        "2026-05": 288321.77,
+        "2026-06": 236106.62,
+        "2026-07": 51726.18,
+        "2026-08": 153112.23,
+        "2026-09": 187190.08,
+        "2026-10": 209937.22
+      },
+      "cid": {
+        "note": "「CID 消耗」表 Q3-CIDbyday，行 4 合计：账户实际总消耗 ¥100,843（F¥78,777 · 搜索¥22,066），现金 ¥97,056。日数据在 10/19 后同样归零。CID 不并入 F，也不并入 spend.used。",
+        "accountUsed": 100843,
+        "f": 78777,
+        "s": 22066,
+        "cash": 97056,
+        "asOf": "表内合计行，明细大约到 10 月中下旬",
+        "source": "CID 消耗 A4"
+      },
+      "sheetHeaderMonthly": {
+        "sepFSCash": 180569,
+        "augFSCash": 149227,
+        "julK": 14695,
+        "julFS": 39851,
+        "julTTL": 58162,
+        "augK": 120000,
+        "augTTL": 269227,
+        "q3TargetK": 264000,
+        "q3TargetFS": 396000,
+        "q3TargetTTL": 660000,
+        "q3ActualK_cell": 14695,
+        "q3ActualFS_cell": 369646,
+        "q3ActualTTL_cell": 238731,
+        "q3ActualNote": "Q3实际 K 单元格等于 7 月 K、未加上 8 月 K 12 万；TTL 238,731 也不等于 K+FS。只转录单元格，不采用为结论。Q3实际 FS 369,646 ≈ 9月180569+8月149227+7月39851。"
+      },
+      "q1SubtotalDiscrepancy": {
+        "sheetCellAccountUsed": 1085664,
+        "sheetCellF": 759406,
+        "sheetCellS": 314977,
+        "sumOfDailyRowsJanMar": 501819.52,
+        "note": "行 4「1-3月 Q1」账户消耗 ¥1,085,664，与 1/24–3/14 日行加总（约 50.2 万）对不上。3/15–3/31 无日行。未采用该小计。"
+      },
+      "source": {
+        "name": "Y26-雅萌闪修仪-【不息小红盟投流】",
+        "wiki": "SMezwVo1OiA2QXkAQ7lcm8VOnge",
+        "spreadsheet": "C2rJsC5hKhSagKt0smlcCwqUnFg",
+        "sheet": "02 实时消耗进度表+投流UV",
+        "sheetId": "a4d725"
+      }
+    },
+    "effect": {
+      "cpuv": null,
+      "cpuvTarget": null,
+      "uv": null,
+      "uvDay1101": null,
+      "note": "KPI 表「UV量（T+2）/ CPUV（T+2）」最新数据格为空；38 节数据 CPUV=103、UV=4073，截止标注偏 5–6 月，且 11/06 纪要说淘宝星河进店 UV 暂不使用。不填当前效果数。"
+    },
+    "delivery": {
+      "published": 23,
+      "planned": 34,
+      "period": "2026-11 小红星 K",
+      "topicsDone": null,
+      "topicsTotal": null,
+      "feePublished": 25204.23,
+      "feePlanned": 32481.9,
+      "cats": {
+        "沉浸式护肤": "1/1",
+        "素人-到货晒单（不上脸）": "8/8",
+        "询问帖": "3/3",
+        "素人-使用反馈 出镜版": "11/22"
+      },
+      "decSlot": {
+        "star": "18/22",
+        "starFee": "6.2万/6.6万",
+        "meng": "6/18",
+        "mengFee": "1.2万/4万"
+      },
+      "asOf": "2026-11-12",
+      "source": "每天雅萌日报 + 11月K合作执行表（表内已发布 23、结算价与日报一致）"
+    },
+    "p0": {
+      "title": "12 月小红盟定档 6/18，送礼缺口 7p；今日应发未出",
+      "body": "11/12 日报：12 月小红盟定档 33%（1.2 万/4 万），送礼还差 7 篇，二传差 2 篇。11 月 K 发布 23/34，卡住的 11 篇全是使用反馈；米斯特特预估今日发，表里仍是初稿、达人修改中。投流 FS 没有 10/19 之后的实际消耗，双 11 效果无法用这张表讲。",
+      "next": "媒介补 12 月盟定档；内容确认米斯特特今日能否发；运营核对 FS 断数。",
+      "note": "P0 根据 11/12 日报和执行表归纳，不是会上逐条圈定。"
+    },
+    "lights": [
+      {
+        "id": "spend",
+        "name": "花费",
+        "color": "amber",
+        "colorLabel": "黄",
+        "metric": "FS 现金 ¥166.1 万（1/24–10/19）· 11 月起无日耗",
+        "why": "投流实际消耗停在 10/19；没有已对齐的 YTD FS 预算包，无法判落后还是超前。11 月 K 费用 2.52/3.25 万是另一口径、另一时段。",
+        "thresh": null,
+        "asOf": "2026-10-19"
+      },
+      {
+        "id": "effect",
+        "name": "效果",
+        "color": "amber",
+        "colorLabel": "黄",
+        "metric": "当前 CPUV／UV 无法从知识库给出",
+        "why": "KPI 表最新 UV/CPUV 为空；星河进店数据会上已要求暂不使用。",
+        "thresh": null,
+        "asOf": "2026-11-12"
+      },
+      {
+        "id": "delivery",
+        "name": "交付",
+        "color": "amber",
+        "colorLabel": "黄",
+        "metric": "11月已发 23/34 · 使用反馈 11/22 · 12月盟定档 6/18",
+        "why": "11 月前三类已齐，卡在使用反馈；12 月小红盟定档 33%，送礼缺口 7p；另有 19 档挪到 2027 年 1 月。",
+        "thresh": null,
+        "asOf": "2026-11-12"
+      }
+    ],
+    "facts": [
+      {
+        "tag": "花费",
+        "text": "小红盟投流 FS（现金结算）累计 ¥1,661,335.22（F ¥1,227,582.09 · S ¥430,691.84），1/24–10/19 共 245 个有实际的日子；同期账户规划合计 ¥1,727,994.98。账户口径累计 ¥1,687,629.87。10/19 日耗 ¥14,216.22。此数不含 K、不含 CID。11 月及 10/20 后 FS 表内无可靠实际。",
+        "source": "投流表 02 实时消耗进度表+投流UV · C2rJsC5hKhSagKt0smlcCwqUnFg · asOf 2026-10-19"
+      },
+      {
+        "tag": "交付",
+        "text": "11 月小红星 K：定档 34/34（费用 3.25 万/3.25 万），已发 23/34（67.64%），已发费用 2.52 万/3.25 万（77.53%）。使用反馈出镜版 11/22，今日应发「米斯特特」仍为初稿。12 月定档：星 18/22（6.2/6.6 万），盟 6/18（1.2/4 万）。",
+        "source": "每天雅萌日报 P5CkwmjWDiT4T7kYdijcwJvFnge 11月12日 · 11月K合作执行表 IN6wsxSmYhtHgvtNucpcZIeun3e"
+      },
+      {
+        "tag": "风险",
+        "text": "达人挪档期表 19 人挪到 2027 年 1 月（老爸评测二传、李佳琦 offer 等，多条不保价、部分需赔付），1 人取消合作。FS 日耗断在 10/19。11/06 复盘会要求星河 UV/GMV 先不用，总投入按 K/FS/CID 拆，249.9 万只在纪要里作为 KFS 合并计划口径。",
+        "source": "达人挪档期+赔付 · 投流表 · 11/06 纪要 HZczdibxJoDrzax5gDxcuj9Qn9f"
+      }
+    ],
+    "todos": [
+      {
+        "id": "mt-xinghe-uv",
+        "title": "淘宝星河进店 UV／GMV 重新拉取核验",
+        "meeting": "20261106 雅萌闪修 Y26 D11 复盘初稿评审（周会目录）",
+        "date": "11-06",
+        "owner": "纪要未点名（数据规范）",
+        "status": "todo",
+        "statusLab": "待跟进",
+        "source": "会议纪要 · 复盘基础信息校准",
+        "summary": "纪要：淘宝星河导出的进店 UV、GMV 重复计算、可信度低，先标记暂不使用，后续需重新拉取核验。",
+        "url": "https://qmfhs4392h.feishu.cn/wiki/RynawrJtqiK1c4k3hS1crLIPnrY"
+      },
+      {
+        "id": "mt-kfs-split",
+        "title": "总投入按 K / FS / CID 拆分，249.9 万按 KFS 合并口径",
+        "meeting": "20261106 复盘初稿评审",
+        "date": "11-06",
+        "owner": "纪要未点名",
+        "status": "todo",
+        "statusLab": "待跟进",
+        "source": "会议纪要 · 费用维度拆分",
+        "summary": "明确 249.9 万计划预算为 KFS 合并口径，同时拆小红星、小红盟费用明细。此 249.9 万只在纪要里出现，投流表/执行表里尚未对上同一单元格，未写入 snapshot.budget。",
+        "url": "https://qmfhs4392h.feishu.cn/wiki/RynawrJtqiK1c4k3hS1crLIPnrY"
+      },
+      {
+        "id": "mt-period",
+        "title": "复盘统计周期统一为 9/1–10/31，7–8 月单独标注",
+        "meeting": "20261106 复盘初稿评审",
+        "date": "11-06",
+        "owner": "龚晓婷",
+        "status": "todo",
+        "statusLab": "待跟进",
+        "source": "会议纪要",
+        "summary": "全复盘核心统计周期 9 月 1 日–10 月 31 日；并用群内新同步的四个时间节点划分。",
+        "url": "https://qmfhs4392h.feishu.cn/wiki/RynawrJtqiK1c4k3hS1crLIPnrY"
+      },
+      {
+        "id": "mt-align-wed",
+        "title": "预约下周三 10:30–12:00 复盘对齐会",
+        "meeting": "20261106 复盘初稿评审",
+        "date": "11-06",
+        "owner": "江寅(文静)",
+        "status": "todo",
+        "statusLab": "待核对是否已开",
+        "source": "会议纪要末条",
+        "summary": "11/06 纪要：预约下周三上午 10:30–12:00（即 11/11）复盘对齐。拉取日是 11/12，是否已开、结论如何，本快照未再核。",
+        "url": "https://qmfhs4392h.feishu.cn/wiki/RynawrJtqiK1c4k3hS1crLIPnrY"
+      }
+    ],
+    "trust": {
+      "spend": "FS 日行加总，现金口径，截至 10/19；未用对不上的 Q1 小计单元格。K 用执行表结算价与日报交叉验证。",
+      "kpi": "当前可验证的是 K 篇数/费用和 12 月定档；CPUV 无可靠现数。",
+      "traceUrl": "群消息搜索未返回 position（日报群「发布总进度」0 条），节点链接落到知识库文档，不是 applink position。"
+    },
+    "budgetSplit": {
+      "cash": null,
+      "rebate": null,
+      "note": "无已对齐的全年现金/返货预算包"
+    },
+    "overviewCards": [
+      {
+        "id": "spend",
+        "label": "FS 现金累计 / 规划合计",
+        "value": "166.1 / 172.8",
+        "unit": "万元",
+        "note": "1/24–10/19 · 规划非正式预算包",
+        "asOf": "2026-10-19"
+      },
+      {
+        "id": "k-nov",
+        "label": "11月K已发 / 应发",
+        "value": "23 / 34",
+        "unit": "篇",
+        "note": "费用 2.52 / 3.25 万",
+        "asOf": "2026-11-12"
+      },
+      {
+        "id": "k-dec",
+        "label": "12月定档 星 / 盟",
+        "value": "18/22 · 6/18",
+        "unit": "篇",
+        "note": "费用 6.2/6.6 万 · 1.2/4 万",
+        "asOf": "2026-11-12"
+      },
+      {
+        "id": "effect",
+        "label": "CPUV / UV",
+        "value": "—",
+        "unit": "",
+        "note": "KPI 表最新格空；星河数暂不用",
+        "asOf": "2026-11-12"
+      }
+    ],
+    "todayItems": [
+      {
+        "id": "k-nov-publish",
+        "kind": "handoff",
+        "roleTag": "内容",
+        "source": "每天雅萌日报 · 11月12日 + 11月K合作执行表",
+        "boardPin": "content-board",
+        "title": "11月 K 发布 23/34",
+        "body": "小红星 11月发布 23/34（含 10 月 delay 1），进度 67.64%；费用结算价已发 25,204.23 / 共 32,481.9（约 77.6%，日报口径 2.52 万/3.25 万、77.53%）。未发 11 篇全部是「素人-使用反馈 出镜版」（11/22）。34 人已全部下单，定档 34/34。",
+        "nodes": [
+          {
+            "t": "11-10",
+            "text": "发布 18/34（52.94%）；费用 1.16 万/3.25 万（35.69%）。",
+            "traceUrl": "https://qmfhs4392h.feishu.cn/wiki/P5CkwmjWDiT4T7kYdijcwJvFnge"
+          },
+          {
+            "t": "11-11",
+            "text": "发布 21/34（61.76%）；费用 2.36 万/3.25 万（72.61%）。",
+            "traceUrl": "https://qmfhs4392h.feishu.cn/wiki/P5CkwmjWDiT4T7kYdijcwJvFnge"
+          },
+          {
+            "t": "11-12",
+            "text": "发布 23/34（67.64%）；费用 2.52 万/3.25 万（77.53%）。今日预估再发 1 篇（素人使用反馈）。",
+            "traceUrl": "https://qmfhs4392h.feishu.cn/wiki/P5CkwmjWDiT4T7kYdijcwJvFnge"
+          }
+        ],
+        "trace": {
+          "group": "每天雅萌日报（知识库文档，群消息未取到 position）",
+          "time": "11-12",
+          "who": "51(任静)",
+          "summary": "小红星 11 月 K 发布 23/34，费用 2.52 万/3.25 万。",
+          "text": "小红星11月【K 发布总进度】：23/34（含10月delay1） 进度：67.64%；2.52w/3.25w，进度：77.53%"
+        },
+        "health": "warn",
+        "healthLab": "需关注",
+        "assignee": "芹菜（帅琴剑）",
+        "next": "盯使用反馈剩余 11 篇的来稿与发布，尤其今日档 米斯特特。",
+        "due": "2026-11-22",
+        "resolved": false,
+        "notified": false,
+        "thread": [
+          {
+            "who": "51(任静)",
+            "kind": "user",
+            "text": "小红星11月【K 发布总进度】：23/34（含10月delay1） 进度：67.64%；2.52w/3.25w，进度：77.53%",
+            "t": "11-12"
+          }
+        ],
+        "sources": [
+          {
+            "name": "每天雅萌日报",
+            "token": "P5CkwmjWDiT4T7kYdijcwJvFnge",
+            "obj": "VIeRdiIC0ooi5UxrNwacf5IDnAc",
+            "asOf": "2026-11-12"
+          },
+          {
+            "name": "11月K合作执行表（34）",
+            "token": "H4C3wrWZniZeu1k9cvtc8SxbnLf",
+            "sheet": "11月K合作执行表（34）",
+            "spreadsheet": "IN6wsxSmYhtHgvtNucpcZIeun3e",
+            "asOf": "2026-11-12"
+          }
+        ]
+      },
+      {
+        "id": "k-today-mister",
+        "kind": "assign",
+        "roleTag": "内容",
+        "source": "11月K合作执行表 + 11月12日报",
+        "boardPin": "content-board",
+        "title": "米斯特特今日应发仍为初稿",
+        "body": "预估发布日 2026/11/12，笔记状态「初稿」、执行进度「达人修改中」；稿件名「【11.12】米斯特特|闪修仪Pro-素人使用反馈-图文初稿」。结算价 ¥608.5。日报今日预估发布 1 篇即此项。后续未发档：是阿琳不是007 11/13、胖虎的UN 11/14。",
+        "nodes": [
+          {
+            "t": "11-12",
+            "text": "米斯特特 预估 11/12，状态初稿、达人修改中，尚未填实际发布日。",
+            "traceUrl": "https://qmfhs4392h.feishu.cn/wiki/H4C3wrWZniZeu1k9cvtc8SxbnLf"
+          }
+        ],
+        "trace": {
+          "group": "Y26不息闪修仪K合作执行表",
+          "time": "11-12",
+          "who": "关关（不息内容）",
+          "summary": "今日应发的米斯特特还在改稿。",
+          "text": "笔记状态=初稿，执行进度=达人修改中，预估发布日期=2026/11/12，实际发布日为空。"
+        },
+        "health": "danger",
+        "healthLab": "紧急",
+        "assignee": "关关",
+        "next": "确认今日能否发出，否则改档并告知媒介。",
+        "due": "2026-11-12",
+        "resolved": false,
+        "notified": false,
+        "thread": [
+          {
+            "who": "关关（不息内容）",
+            "kind": "user",
+            "text": "笔记状态=初稿，执行进度=达人修改中，预估发布日期=2026/11/12，实际发布日为空。",
+            "t": "11-12"
+          }
+        ]
+      },
+      {
+        "id": "k-dec-slot",
+        "kind": "assign",
+        "roleTag": "媒介",
+        "source": "每天雅萌日报 · 11月12日 十二月份定档进度",
+        "boardPin": "content-board",
+        "title": "12月定档缺口：盟 6/18、送礼仍差 7p",
+        "body": "12月定档（11/12 日报，51任静）：小红星 18/22（81%），费用 6.2 万/6.6 万（93%）；小红盟 6/18（33%），费用 1.2 万/4 万（30%）。缺口：打卡实测 2p（小红盟 2p）、素人口碑 5p（星 2p + 盟 3p）、送礼 7p（盟 3p + 星 4p）、老爸评测+李佳琦+女明星二传 2p（小红盟 2p）。执行表里 12 月目前 24 行（星 18 + 盟 6），尚无已发布。",
+        "nodes": [
+          {
+            "t": "11-11",
+            "text": "星 18/22、盟 6/18；缺口素人口碑 7p、送礼 7p、打卡 2p、二传 2p。",
+            "traceUrl": "https://qmfhs4392h.feishu.cn/wiki/P5CkwmjWDiT4T7kYdijcwJvFnge"
+          },
+          {
+            "t": "11-12",
+            "text": "篇数进度不变；素人口碑缺口从 7p 收到 5p（星 2p、盟 3p），送礼仍为 7p。",
+            "traceUrl": "https://qmfhs4392h.feishu.cn/wiki/P5CkwmjWDiT4T7kYdijcwJvFnge"
+          }
+        ],
+        "trace": {
+          "group": "每天雅萌日报",
+          "time": "11-12",
+          "who": "51(任静)",
+          "summary": "12 月小红盟定档只有 33%，送礼还差 7 篇。",
+          "text": "小红盟k：篇数进度6/18，进度33%；费用1.2W/4W，进度30%。缺口送礼 7p。"
+        },
+        "health": "danger",
+        "healthLab": "紧急",
+        "assignee": "Acy（陈晨），51（任静）",
+        "next": "补小红盟定档，优先送礼与二传缺口。",
+        "due": null,
+        "resolved": false,
+        "notified": false,
+        "thread": [
+          {
+            "who": "51(任静)",
+            "kind": "user",
+            "text": "小红盟k：篇数进度6/18，进度33%；费用1.2W/4W，进度30%。缺口送礼 7p。",
+            "t": "11-12"
+          }
+        ]
+      },
+      {
+        "id": "k-delay-jan27",
+        "kind": "handoff",
+        "roleTag": "媒介",
+        "source": "达人挪档期+赔付",
+        "boardPin": "content-board",
+        "title": "19 档挪到 2027 年 1 月，1 档取消合作",
+        "body": "「达人挪档期+赔付」表 20 行：19 人客户需求为「挪到27年1月」（多为老爸评测二传、李佳琦 offer、打卡实测等），1 人「菠菜姐姐」品牌最终反馈为「取消合作、无需赔付」。多条达人反馈「不保价」；门婕裂夫、黑橘发福了等注明需赔付。两位「正常推进」（门婕裂夫、Meera蜜拉），其余品牌反馈多为「挪档期」。",
+        "nodes": [
+          {
+            "t": "表",
+            "text": "19 挪至 2027/1，1 取消合作；多条不保价、部分需赔付。",
+            "traceUrl": "https://qmfhs4392h.feishu.cn/wiki/H4C3wrWZniZeu1k9cvtc8SxbnLf"
+          }
+        ],
+        "trace": {
+          "group": "Y26不息闪修仪K合作执行表 · 达人挪档期+赔付",
+          "time": "2026-11-12 拉取",
+          "who": null,
+          "summary": "大批 KOL 档期挪到明年 1 月。",
+          "text": "客户需求列：挪到27年1月 ×19，取消 ×（黑橘发福了等需求为取消；菠菜姐姐最终取消合作）。"
+        },
+        "health": "warn",
+        "healthLab": "需关注",
+        "assignee": "Acy（陈晨），51（任静）",
+        "next": "把保价/赔付清单和 1 月可排档对齐给 PM。",
+        "due": null,
+        "resolved": false,
+        "notified": false,
+        "thread": [
+          {
+            "who": "暂无",
+            "kind": "user",
+            "text": "客户需求列：挪到27年1月 ×19，取消 ×（黑橘发福了等需求为取消；菠菜姐姐最终取消合作）。",
+            "t": "2026-11-12 拉取"
+          }
+        ]
+      },
+      {
+        "id": "fs-stale",
+        "kind": "assign",
+        "roleTag": "运营",
+        "source": "Y26-雅萌闪修仪-【不息小红盟投流】· 02 实时消耗进度表+投流UV",
+        "boardPin": "weekly-report",
+        "title": "投流 FS 实际消耗停在 10/19",
+        "body": "实时消耗表每日「账户实际消耗」最后一笔可靠数为 2026/10/19（¥14,216.22，F ¥9,358.27 · S ¥4,710.23）。10/20 仅 ¥105.97（规划 ¥15,000），不像正常日耗；10/21 起实际消耗为空，CID 表同样在 10/19 后归零。YTD（1/24–10/19）账户消耗 ¥1,687,629.87（F ¥1,238,589.72 · S ¥431,607.44）；现金结算 ¥1,661,335.22（F ¥1,227,582.09 · S ¥430,691.84）。双 11 期间及 11 月 FS 在这张表里还没有数。",
+        "nodes": [
+          {
+            "t": "10-19",
+            "text": "最后一天完整日耗：账户 ¥14,216.22（F 9,358.27 · S 4,710.23）。",
+            "traceUrl": "https://qmfhs4392h.feishu.cn/wiki/SMezwVo1OiA2QXkAQ7lcm8VOnge"
+          },
+          {
+            "t": "10-21",
+            "text": "10/21 起账户实际消耗为空，仅残留规划与个别异常现金格。",
+            "traceUrl": "https://qmfhs4392h.feishu.cn/wiki/SMezwVo1OiA2QXkAQ7lcm8VOnge"
+          }
+        ],
+        "trace": {
+          "group": "投流表",
+          "time": "数据截至 10-19",
+          "who": null,
+          "summary": "FS 实际消耗没有 10/19 之后的可靠数。",
+          "text": "current_region A1:AY285，最后有实际消耗的日期 2026/10/19。"
+        },
+        "health": "warn",
+        "healthLab": "需关注",
+        "assignee": "邹文（周文健）",
+        "next": "核对 10/20 后为何未录入，补 10 月下旬和 11 月日耗。",
+        "due": null,
+        "resolved": false,
+        "notified": false,
+        "thread": [
+          {
+            "who": "暂无",
+            "kind": "user",
+            "text": "current_region A1:AY285，最后有实际消耗的日期 2026/10/19。",
+            "t": "数据截至 10-19"
+          }
+        ]
+      }
+    ],
+    "meetTodos": [
+      {
+        "id": "mt-xinghe-uv",
+        "title": "淘宝星河进店 UV／GMV 重新拉取核验",
+        "meeting": "20261106 雅萌闪修 Y26 D11 复盘初稿评审（周会目录）",
+        "date": "11-06",
+        "owner": "纪要未点名（数据规范）",
+        "status": "todo",
+        "statusLab": "待跟进",
+        "source": "会议纪要 · 复盘基础信息校准",
+        "summary": "纪要：淘宝星河导出的进店 UV、GMV 重复计算、可信度低，先标记暂不使用，后续需重新拉取核验。",
+        "url": "https://qmfhs4392h.feishu.cn/wiki/RynawrJtqiK1c4k3hS1crLIPnrY"
+      },
+      {
+        "id": "mt-kfs-split",
+        "title": "总投入按 K / FS / CID 拆分，249.9 万按 KFS 合并口径",
+        "meeting": "20261106 复盘初稿评审",
+        "date": "11-06",
+        "owner": "纪要未点名",
+        "status": "todo",
+        "statusLab": "待跟进",
+        "source": "会议纪要 · 费用维度拆分",
+        "summary": "明确 249.9 万计划预算为 KFS 合并口径，同时拆小红星、小红盟费用明细。此 249.9 万只在纪要里出现，投流表/执行表里尚未对上同一单元格，未写入 snapshot.budget。",
+        "url": "https://qmfhs4392h.feishu.cn/wiki/RynawrJtqiK1c4k3hS1crLIPnrY"
+      },
+      {
+        "id": "mt-period",
+        "title": "复盘统计周期统一为 9/1–10/31，7–8 月单独标注",
+        "meeting": "20261106 复盘初稿评审",
+        "date": "11-06",
+        "owner": "龚晓婷",
+        "status": "todo",
+        "statusLab": "待跟进",
+        "source": "会议纪要",
+        "summary": "全复盘核心统计周期 9 月 1 日–10 月 31 日；并用群内新同步的四个时间节点划分。",
+        "url": "https://qmfhs4392h.feishu.cn/wiki/RynawrJtqiK1c4k3hS1crLIPnrY"
+      },
+      {
+        "id": "mt-align-wed",
+        "title": "预约下周三 10:30–12:00 复盘对齐会",
+        "meeting": "20261106 复盘初稿评审",
+        "date": "11-06",
+        "owner": "江寅(文静)",
+        "status": "todo",
+        "statusLab": "待核对是否已开",
+        "source": "会议纪要末条",
+        "summary": "11/06 纪要：预约下周三上午 10:30–12:00（即 11/11）复盘对齐。拉取日是 11/12，是否已开、结论如何，本快照未再核。",
+        "url": "https://qmfhs4392h.feishu.cn/wiki/RynawrJtqiK1c4k3hS1crLIPnrY"
+      }
+    ],
+    "kpiItems": [
+      {
+        "id": "kpi-k-nov-pub",
+        "name": "11月K发布篇数",
+        "target": 34,
+        "actual": 23,
+        "better": "high",
+        "unit": "",
+        "note": "小红星；含 10 月 delay 1。来自 11/12 日报与执行表，一致。",
+        "asOf": "2026-11-12",
+        "source": "每天雅萌日报 / 11月K合作执行表"
+      },
+      {
+        "id": "kpi-k-nov-fee",
+        "name": "11月K费用（品牌结算价）",
+        "target": 32481.9,
+        "actual": 25204.23,
+        "better": "high",
+        "unit": "¥",
+        "note": "已发布行结算价合计 / 34 行合计。日报写 2.52 万/3.25 万（77.53%），表算 77.6%。",
+        "asOf": "2026-11-12",
+        "source": "11月K合作执行表（34）"
+      },
+      {
+        "id": "kpi-dec-star-slot",
+        "name": "12月小红星定档篇数",
+        "target": 22,
+        "actual": 18,
+        "better": "high",
+        "unit": "",
+        "note": "日报：进度 81%；费用 6.2 万/6.6 万（93%）。",
+        "asOf": "2026-11-12",
+        "source": "每天雅萌日报 11月12日"
+      },
+      {
+        "id": "kpi-dec-meng-slot",
+        "name": "12月小红盟定档篇数",
+        "target": 18,
+        "actual": 6,
+        "better": "high",
+        "unit": "",
+        "note": "日报：进度 33%；费用 1.2 万/4 万（30%）。",
+        "asOf": "2026-11-12",
+        "source": "每天雅萌日报 11月12日"
+      },
+      {
+        "id": "kpi-sov",
+        "name": "SOV（微电流美容仪）",
+        "target": null,
+        "actual": "TOP1",
+        "better": "high",
+        "unit": "",
+        "note": "「闪修KPI（同周报）」写 38 数据 TOP1、最新数据 TOP1；表头「截止 6.3」，不是 11 月数。仅作历史监测，不作为当前考核。",
+        "asOf": "约 2026-06-03（表内标注，未写更近日）",
+        "source": "雅萌闪修｜KPI · 闪修KPI（同周报）",
+        "stale": true
+      }
+    ],
+    "members": [
+      {
+        "id": "m-tutu",
+        "name": "图图（胡爱茹）",
+        "role": "项目PM",
+        "openid": "ou_49bce3f2921f67917efcb1a872368a14"
+      },
+      {
+        "id": "m-acy",
+        "name": "Acy（陈晨）",
+        "role": "媒介",
+        "openid": "ou_9e978aefbfd3fed7e66f7895eec876f0"
+      },
+      {
+        "id": "m-51",
+        "name": "51（任静）",
+        "role": "媒介",
+        "openid": "ou_d155f330b74f8414a4de21e969c001f8"
+      },
+      {
+        "id": "m-qin",
+        "name": "芹菜（帅琴剑）",
+        "role": "内容",
+        "openid": "ou_4793e25dd2f07bfeb2fa4a664136b5b5"
+      },
+      {
+        "id": "m-zou",
+        "name": "邹文（周文健）",
+        "role": "运营",
+        "openid": "ou_01bd799888c1cc0838b3403e8021fd49"
+      }
+    ],
+    "execPlanActual": {
+      "media": [
+        {
+          "id": "nov-order",
+          "title": "11月下单／定档（小红星）",
+          "plan": "34",
+          "actual": "34",
+          "light": "ok",
+          "lightLab": "已齐",
+          "warn": "",
+          "warnCls": "",
+          "summary": "应下 34 · 已下 34 · 全部小红星；与 11/12 日报「定档 34/34、费用 3.25 万/3.25 万」一致",
+          "std": true,
+          "nodes": [],
+          "source": "11月K合作执行表（34）· 是否下单=是 ×34",
+          "asOf": "2026-11-12"
+        },
+        {
+          "id": "dec-slot",
+          "title": "12月定档",
+          "plan": "星 22 + 盟 18",
+          "actual": "星 18 + 盟 6",
+          "light": "danger",
+          "lightLab": "未齐",
+          "warn": "⚠ 小红盟 6/18（33%）；送礼缺口 7p",
+          "warnCls": "late",
+          "summary": "日报口径：星 18/22（81%，费用 6.2/6.6 万）· 盟 6/18（33%，费用 1.2/4 万）",
+          "std": true,
+          "nodes": [
+            {
+              "n": "打卡实测",
+              "plan": "2p 小红盟",
+              "actual": "—",
+              "st": "缺口"
+            },
+            {
+              "n": "素人口碑",
+              "plan": "5p（星2+盟3）",
+              "actual": "—",
+              "st": "缺口（11/11 曾为 7p）"
+            },
+            {
+              "n": "送礼",
+              "plan": "7p（盟3+星4）",
+              "actual": "—",
+              "st": "缺口"
+            },
+            {
+              "n": "老爸评测+李佳琦+女明星二传",
+              "plan": "2p 小红盟",
+              "actual": "—",
+              "st": "缺口"
+            }
+          ],
+          "source": "每天雅萌日报 11月12日 三、【12月定档进度】",
+          "asOf": "2026-11-12"
+        },
+        {
+          "id": "delay-jan",
+          "title": "达人异常挪档／取消",
+          "plan": "跟踪",
+          "actual": "19 挪至 2027/1 · 1 取消",
+          "light": "danger",
+          "lightLab": "危机",
+          "warn": "⚠ 多条不保价、部分需赔付",
+          "warnCls": "late",
+          "summary": "挪档 19 · 取消合作 1（菠菜姐姐，无需赔付）· 见「达人挪档期+赔付」",
+          "std": true,
+          "nodes": [
+            {
+              "n": "老爸评测二传（美娜Richeee、是胖仔呀、美少驴的草稿箱、就叫米米叭M 等）",
+              "plan": "—",
+              "actual": "挪到 27 年 1 月",
+              "st": "多条不保价"
+            },
+            {
+              "n": "菠菜姐姐 · 李佳琦 offer 直推",
+              "plan": "—",
+              "actual": "取消合作",
+              "st": "无需赔付"
+            },
+            {
+              "n": "门婕裂夫",
+              "plan": "—",
+              "actual": "挪到 27 年 1 月",
+              "st": "正常推进 · 初稿需赔付"
+            }
+          ],
+          "source": "达人挪档期+赔付 A1:U21",
+          "asOf": "2026-11-12"
+        }
+      ],
+      "content": [
+        {
+          "id": "nov-publish",
+          "title": "11月实际发布",
+          "plan": "34（预估发布日都已填）",
+          "actual": "23",
+          "light": "warn",
+          "lightLab": "进行中",
+          "warn": "⚠ 剩余 11 篇均为素人使用反馈出镜版，最早档 11/12 米斯特特仍为初稿",
+          "warnCls": "risk",
+          "summary": "计划 34 · 已发 23 · 未发 11 · 费用 25,204 / 32,482",
+          "std": true,
+          "nodes": [
+            {
+              "n": "米斯特特",
+              "plan": "2026/11/12",
+              "actual": "—",
+              "st": "初稿 · 达人修改中"
+            },
+            {
+              "n": "是阿琳不是007",
+              "plan": "2026/11/13",
+              "actual": "—",
+              "st": "未填状态"
+            },
+            {
+              "n": "胖虎的UN",
+              "plan": "2026/11/14",
+              "actual": "—",
+              "st": "未填状态"
+            },
+            {
+              "n": "汤不甜",
+              "plan": "2026/11/15",
+              "actual": "—",
+              "st": "初稿 · 达人修改中"
+            },
+            {
+              "n": "傲娇小龙女",
+              "plan": "2026/11/16",
+              "actual": "—",
+              "st": "初稿 · 达人修改中"
+            },
+            {
+              "n": "特能装的婷婷",
+              "plan": "2026/11/17",
+              "actual": "—",
+              "st": "未填状态"
+            },
+            {
+              "n": "原来是老财呀！",
+              "plan": "2026/11/18",
+              "actual": "—",
+              "st": "初稿 · 达人创作中"
+            },
+            {
+              "n": "芦荟胶啊",
+              "plan": "2026/11/19",
+              "actual": "—",
+              "st": "初稿 · 达人创作中"
+            },
+            {
+              "n": "溪沐宝宝",
+              "plan": "2026/11/20",
+              "actual": "—",
+              "st": "未填状态"
+            },
+            {
+              "n": "星尧尧",
+              "plan": "2026/11/21",
+              "actual": "—",
+              "st": "未填状态"
+            },
+            {
+              "n": "麦麦巨好运",
+              "plan": "2026/11/22",
+              "actual": "—",
+              "st": "未填状态"
+            }
+          ],
+          "source": "11月K合作执行表（34）实际发布日日期 / 笔记状态 / 预估发布日期",
+          "asOf": "2026-11-12"
+        },
+        {
+          "id": "nov-cats",
+          "title": "11月内容类型进度",
+          "plan": "沉浸式 1 · 到货晒单 8 · 询问帖 3 · 使用反馈 22",
+          "actual": "1/1 · 8/8 · 3/3 · 11/22",
+          "light": "warn",
+          "lightLab": "使用反馈未齐",
+          "warn": "",
+          "warnCls": "",
+          "summary": "前三类已齐；使用反馈出镜版 11/22",
+          "std": true,
+          "nodes": [],
+          "source": "每天雅萌日报 11月12日",
+          "asOf": "2026-11-12"
+        }
+      ],
+      "ops": [
+        {
+          "id": "fs-cutoff",
+          "title": "投流 FS 日耗录入",
+          "plan": "按日更新至当日",
+          "actual": "停在 2026-10-19",
+          "light": "danger",
+          "lightLab": "断数",
+          "warn": "⚠ 双 11 与 11 月 FS 在实时消耗表无实际数",
+          "warnCls": "late",
+          "summary": "最后可靠日耗 10/19 ¥14,216；10/21 后为空",
+          "std": true,
+          "nodes": [
+            {
+              "n": "10/19",
+              "plan": "¥12,000",
+              "actual": "¥14,216.22",
+              "st": "F 9,358 · S 4,710"
+            },
+            {
+              "n": "10/20",
+              "plan": "¥15,000",
+              "actual": "¥105.97",
+              "st": "疑似残值，未当作正常日耗"
+            },
+            {
+              "n": "10/21 起",
+              "plan": "有规划",
+              "actual": "—",
+              "st": "账户实际消耗空"
+            }
+          ],
+          "source": "02 实时消耗进度表+投流UV",
+          "asOf": "2026-10-19"
+        }
+      ]
+    }
+  },
+  "seedingRows": null,
+  "dailyCard": {
+    "title": "雅萌闪修仪 Pro｜2026-11-12 项目日报（知识库摘录）",
+    "subtitle": "进展取自「每天雅萌日报」11 月 12 日条，以及当日执行表、投流表。",
+    "progress": [
+      "11 月小红星 K：定档 34/34（3.25 万/3.25 万）；发布 23/34（67.64%），费用 2.52 万/3.25 万（77.53%）。沉浸式 1/1、到货晒单 8/8、询问帖 3/3、使用反馈 11/22。",
+      "12 月定档：小红星 18/22（81%，6.2/6.6 万）；小红盟 6/18（33%，1.2/4 万）。",
+      "FS 投流（现金）累计 ¥166.1 万（F ¥122.8 万 · S ¥43.1 万），数据只到 10/19；11 月 K 费用与 FS 不在同一张进度里。"
+    ],
+    "risks": [
+      "【内容】米斯特特预估 11/12 发布，仍为初稿、达人修改中；其后 11/13–11/22 还有 10 个使用反馈档未发。",
+      "【媒介】12 月小红盟定档 33%，送礼 7p、二传 2p 仍缺；19 个达人档期挪到 2027 年 1 月。",
+      "【投放】FS 实际消耗停在 10/19，双 11 日耗与 CPUV 无法用知识库现表给出。"
+    ],
+    "fullLinkLabel": "打开每天雅萌日报",
+    "fullLinkHref": "https://qmfhs4392h.feishu.cn/wiki/P5CkwmjWDiT4T7kYdijcwJvFnge",
+    "footer": "数据截至 2026-11-12 拉取；K 与定档到 11/12，FS 到 10/19。未编造缺失项。群消息未取到 position，节点链接落到知识库文档。"
+  },
+  "id": "yamano-pro",
+  "projectId": "yameng-pro",
+  "name": "雅萌闪修仪 Pro",
+  "brandLine": "雅萌 · 闪修仪 Pro",
+  "owner": "图图（胡爱茹）",
+  "deadline": null,
+  "launchDate": "2026-01-24",
+  "campaignEnd": null,
+  "pulledAt": "2026-11-12T11:40:00+08:00",
+  "timezone": "Asia/Shanghai",
+  "notes": {
+    "projectInfoSheetEmpty": true,
+    "projectInfoSheetNote": "01 项目信息基础表只有表头（current_region A1:K1），无负责人、起止日期、状态。launchDate 取投流表首日 2026/1/24（平销期），不是立项表。",
+    "glossary": "K=达人（从未写作 KA）；F=信息流 only；S=搜索；FS=F+S；视频流不并入 F。CID 是投流表里单独的 CID 消耗，未并入 F 或 used。",
+    "tokenRotation": "11:33 再列「02 项目文档」时，日报和三张业务表的 wiki/sheet token 已换成新副本（约 11:00 UTC+8 再拷贝，revision 仍为 0）。本快照用的是新 token。旧 token（FVu7w3Ix0i6TefkmnPrc20z9nyK 等）已删除。"
+  },
+  "spend": {
+    "used": 1661335.22,
+    "usedNote": "FS 现金结算合计（col S），1/24–10/19，不含 K、不含 CID。HTML vTodaySpendBlock 把 spend.used 当 usedFS。",
+    "budget": null,
+    "budgetFS": null,
+    "budgetFSNote": "没有找到与「YTD FS 包」一一对应、已签字的预算格。每日「账户规划」同期合计 ¥1,727,994.98，只作对照，不当正式 budgetFS。11/06 纪要「249.9 万 KFS 合并」未在表内对上，不写入 budget。",
+    "planFS": 1727994.98,
+    "planFSNote": "同期每日账户规划合计（col E），口径与现金结算不完全同一。",
+    "budgetK": 32481.9,
+    "budgetKPeriod": "2026-11 小红星 34 人品牌结算价合计，不是全年 K 包",
+    "usedK": 25204.23,
+    "usedKPeriod": "2026-11 已发布 23 行结算价合计，asOf 2026-11-12",
+    "f": 1227582.09,
+    "s": 430691.84,
+    "fNote": "现金结算·信息流 col T，1/24–10/19",
+    "sNote": "现金结算·搜索 col U，1/24–10/19",
+    "spendPct": null,
+    "timePct": null,
+    "timePctNote": "无项目结束日（基础表为空），不算时程百分比，避免虚构。",
+    "asOf": "2026-10-19",
+    "dailyThru": "2026-10-19",
+    "day20261019": 14216.22,
+    "day20261019F": 9358.27,
+    "day20261019S": 4710.23,
+    "accountUsedYtd": 1687629.87,
+    "accountF": 1238589.72,
+    "accountS": 431607.44,
+    "monthlyAccountUsed": {
+      "2026-01": 24335.22,
+      "2026-02": 312062.19,
+      "2026-03": 165422.11,
+      "2026-04": 59416.25,
+      "2026-05": 288321.77,
+      "2026-06": 236106.62,
+      "2026-07": 51726.18,
+      "2026-08": 153112.23,
+      "2026-09": 187190.08,
+      "2026-10": 209937.22
+    },
+    "cid": {
+      "note": "「CID 消耗」表 Q3-CIDbyday，行 4 合计：账户实际总消耗 ¥100,843（F¥78,777 · 搜索¥22,066），现金 ¥97,056。日数据在 10/19 后同样归零。CID 不并入 F，也不并入 spend.used。",
+      "accountUsed": 100843,
+      "f": 78777,
+      "s": 22066,
+      "cash": 97056,
+      "asOf": "表内合计行，明细大约到 10 月中下旬",
+      "source": "CID 消耗 A4"
+    },
+    "sheetHeaderMonthly": {
+      "sepFSCash": 180569,
+      "augFSCash": 149227,
+      "julK": 14695,
+      "julFS": 39851,
+      "julTTL": 58162,
+      "augK": 120000,
+      "augTTL": 269227,
+      "q3TargetK": 264000,
+      "q3TargetFS": 396000,
+      "q3TargetTTL": 660000,
+      "q3ActualK_cell": 14695,
+      "q3ActualFS_cell": 369646,
+      "q3ActualTTL_cell": 238731,
+      "q3ActualNote": "Q3实际 K 单元格等于 7 月 K、未加上 8 月 K 12 万；TTL 238,731 也不等于 K+FS。只转录单元格，不采用为结论。Q3实际 FS 369,646 ≈ 9月180569+8月149227+7月39851。"
+    },
+    "q1SubtotalDiscrepancy": {
+      "sheetCellAccountUsed": 1085664,
+      "sheetCellF": 759406,
+      "sheetCellS": 314977,
+      "sumOfDailyRowsJanMar": 501819.52,
+      "note": "行 4「1-3月 Q1」账户消耗 ¥1,085,664，与 1/24–3/14 日行加总（约 50.2 万）对不上。3/15–3/31 无日行。未采用该小计。"
+    },
+    "source": {
+      "name": "Y26-雅萌闪修仪-【不息小红盟投流】",
+      "wiki": "SMezwVo1OiA2QXkAQ7lcm8VOnge",
+      "spreadsheet": "C2rJsC5hKhSagKt0smlcCwqUnFg",
+      "sheet": "02 实时消耗进度表+投流UV",
+      "sheetId": "a4d725"
+    }
+  },
+  "effect": {
+    "cpuv": null,
+    "cpuvTarget": null,
+    "uv": null,
+    "uvDay1101": null,
+    "note": "KPI 表「UV量（T+2）/ CPUV（T+2）」最新数据格为空；38 节数据 CPUV=103、UV=4073，截止标注偏 5–6 月，且 11/06 纪要说淘宝星河进店 UV 暂不使用。不填当前效果数。"
+  },
+  "delivery": {
+    "published": 23,
+    "planned": 34,
+    "period": "2026-11 小红星 K",
+    "topicsDone": null,
+    "topicsTotal": null,
+    "feePublished": 25204.23,
+    "feePlanned": 32481.9,
+    "cats": {
+      "沉浸式护肤": "1/1",
+      "素人-到货晒单（不上脸）": "8/8",
+      "询问帖": "3/3",
+      "素人-使用反馈 出镜版": "11/22"
+    },
+    "decSlot": {
+      "star": "18/22",
+      "starFee": "6.2万/6.6万",
+      "meng": "6/18",
+      "mengFee": "1.2万/4万"
+    },
+    "asOf": "2026-11-12",
+    "source": "每天雅萌日报 + 11月K合作执行表（表内已发布 23、结算价与日报一致）"
+  },
+  "lights": [
+    {
+      "id": "spend",
+      "name": "花费",
+      "color": "amber",
+      "colorLabel": "黄",
+      "metric": "FS 现金 ¥166.1 万（1/24–10/19）· 11 月起无日耗",
+      "why": "投流实际消耗停在 10/19；没有已对齐的 YTD FS 预算包，无法判落后还是超前。11 月 K 费用 2.52/3.25 万是另一口径、另一时段。",
+      "thresh": null,
+      "asOf": "2026-10-19"
+    },
+    {
+      "id": "effect",
+      "name": "效果",
+      "color": "amber",
+      "colorLabel": "黄",
+      "metric": "当前 CPUV／UV 无法从知识库给出",
+      "why": "KPI 表最新 UV/CPUV 为空；星河进店数据会上已要求暂不使用。",
+      "thresh": null,
+      "asOf": "2026-11-12"
+    },
+    {
+      "id": "delivery",
+      "name": "交付",
+      "color": "amber",
+      "colorLabel": "黄",
+      "metric": "11月已发 23/34 · 使用反馈 11/22 · 12月盟定档 6/18",
+      "why": "11 月前三类已齐，卡在使用反馈；12 月小红盟定档 33%，送礼缺口 7p；另有 19 档挪到 2027 年 1 月。",
+      "thresh": null,
+      "asOf": "2026-11-12"
+    }
+  ],
+  "facts": [
+    {
+      "tag": "花费",
+      "text": "小红盟投流 FS（现金结算）累计 ¥1,661,335.22（F ¥1,227,582.09 · S ¥430,691.84），1/24–10/19 共 245 个有实际的日子；同期账户规划合计 ¥1,727,994.98。账户口径累计 ¥1,687,629.87。10/19 日耗 ¥14,216.22。此数不含 K、不含 CID。11 月及 10/20 后 FS 表内无可靠实际。",
+      "source": "投流表 02 实时消耗进度表+投流UV · C2rJsC5hKhSagKt0smlcCwqUnFg · asOf 2026-10-19"
+    },
+    {
+      "tag": "交付",
+      "text": "11 月小红星 K：定档 34/34（费用 3.25 万/3.25 万），已发 23/34（67.64%），已发费用 2.52 万/3.25 万（77.53%）。使用反馈出镜版 11/22，今日应发「米斯特特」仍为初稿。12 月定档：星 18/22（6.2/6.6 万），盟 6/18（1.2/4 万）。",
+      "source": "每天雅萌日报 P5CkwmjWDiT4T7kYdijcwJvFnge 11月12日 · 11月K合作执行表 IN6wsxSmYhtHgvtNucpcZIeun3e"
+    },
+    {
+      "tag": "风险",
+      "text": "达人挪档期表 19 人挪到 2027 年 1 月（老爸评测二传、李佳琦 offer 等，多条不保价、部分需赔付），1 人取消合作。FS 日耗断在 10/19。11/06 复盘会要求星河 UV/GMV 先不用，总投入按 K/FS/CID 拆，249.9 万只在纪要里作为 KFS 合并计划口径。",
+      "source": "达人挪档期+赔付 · 投流表 · 11/06 纪要 HZczdibxJoDrzax5gDxcuj9Qn9f"
+    }
+  ],
+  "p0": {
+    "title": "12 月小红盟定档 6/18，送礼缺口 7p；今日应发未出",
+    "body": "11/12 日报：12 月小红盟定档 33%（1.2 万/4 万），送礼还差 7 篇，二传差 2 篇。11 月 K 发布 23/34，卡住的 11 篇全是使用反馈；米斯特特预估今日发，表里仍是初稿、达人修改中。投流 FS 没有 10/19 之后的实际消耗，双 11 效果无法用这张表讲。",
+    "next": "媒介补 12 月盟定档；内容确认米斯特特今日能否发；运营核对 FS 断数。",
+    "note": "P0 根据 11/12 日报和执行表归纳，不是会上逐条圈定。"
+  },
+  "todayItems": [
+    {
+      "id": "k-nov-publish",
+      "kind": "handoff",
+      "roleTag": "内容",
+      "source": "每天雅萌日报 · 11月12日 + 11月K合作执行表",
+      "boardPin": "content-board",
+      "title": "11月 K 发布 23/34",
+      "body": "小红星 11月发布 23/34（含 10 月 delay 1），进度 67.64%；费用结算价已发 25,204.23 / 共 32,481.9（约 77.6%，日报口径 2.52 万/3.25 万、77.53%）。未发 11 篇全部是「素人-使用反馈 出镜版」（11/22）。34 人已全部下单，定档 34/34。",
+      "nodes": [
+        {
+          "t": "11-10",
+          "text": "发布 18/34（52.94%）；费用 1.16 万/3.25 万（35.69%）。",
+          "traceUrl": "https://qmfhs4392h.feishu.cn/wiki/P5CkwmjWDiT4T7kYdijcwJvFnge"
+        },
+        {
+          "t": "11-11",
+          "text": "发布 21/34（61.76%）；费用 2.36 万/3.25 万（72.61%）。",
+          "traceUrl": "https://qmfhs4392h.feishu.cn/wiki/P5CkwmjWDiT4T7kYdijcwJvFnge"
+        },
+        {
+          "t": "11-12",
+          "text": "发布 23/34（67.64%）；费用 2.52 万/3.25 万（77.53%）。今日预估再发 1 篇（素人使用反馈）。",
+          "traceUrl": "https://qmfhs4392h.feishu.cn/wiki/P5CkwmjWDiT4T7kYdijcwJvFnge"
+        }
+      ],
+      "trace": {
+        "group": "每天雅萌日报（知识库文档，群消息未取到 position）",
+        "time": "11-12",
+        "who": "51(任静)",
+        "summary": "小红星 11 月 K 发布 23/34，费用 2.52 万/3.25 万。",
+        "text": "小红星11月【K 发布总进度】：23/34（含10月delay1） 进度：67.64%；2.52w/3.25w，进度：77.53%"
+      },
+      "health": "warn",
+      "healthLab": "需关注",
+      "assignee": "芹菜（帅琴剑）",
+      "next": "盯使用反馈剩余 11 篇的来稿与发布，尤其今日档 米斯特特。",
+      "due": "2026-11-22",
+      "resolved": false,
+      "notified": false,
+      "thread": [
+        {
+          "who": "51(任静)",
+          "kind": "user",
+          "text": "小红星11月【K 发布总进度】：23/34（含10月delay1） 进度：67.64%；2.52w/3.25w，进度：77.53%",
+          "t": "11-12"
+        }
+      ],
+      "sources": [
+        {
+          "name": "每天雅萌日报",
+          "token": "P5CkwmjWDiT4T7kYdijcwJvFnge",
+          "obj": "VIeRdiIC0ooi5UxrNwacf5IDnAc",
+          "asOf": "2026-11-12"
+        },
+        {
+          "name": "11月K合作执行表（34）",
+          "token": "H4C3wrWZniZeu1k9cvtc8SxbnLf",
+          "sheet": "11月K合作执行表（34）",
+          "spreadsheet": "IN6wsxSmYhtHgvtNucpcZIeun3e",
+          "asOf": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "k-today-mister",
+      "kind": "assign",
+      "roleTag": "内容",
+      "source": "11月K合作执行表 + 11月12日报",
+      "boardPin": "content-board",
+      "title": "米斯特特今日应发仍为初稿",
+      "body": "预估发布日 2026/11/12，笔记状态「初稿」、执行进度「达人修改中」；稿件名「【11.12】米斯特特|闪修仪Pro-素人使用反馈-图文初稿」。结算价 ¥608.5。日报今日预估发布 1 篇即此项。后续未发档：是阿琳不是007 11/13、胖虎的UN 11/14。",
+      "nodes": [
+        {
+          "t": "11-12",
+          "text": "米斯特特 预估 11/12，状态初稿、达人修改中，尚未填实际发布日。",
+          "traceUrl": "https://qmfhs4392h.feishu.cn/wiki/H4C3wrWZniZeu1k9cvtc8SxbnLf"
+        }
+      ],
+      "trace": {
+        "group": "Y26不息闪修仪K合作执行表",
+        "time": "11-12",
+        "who": "关关（不息内容）",
+        "summary": "今日应发的米斯特特还在改稿。",
+        "text": "笔记状态=初稿，执行进度=达人修改中，预估发布日期=2026/11/12，实际发布日为空。"
+      },
+      "health": "danger",
+      "healthLab": "紧急",
+      "assignee": "关关",
+      "next": "确认今日能否发出，否则改档并告知媒介。",
+      "due": "2026-11-12",
+      "resolved": false,
+      "notified": false,
+      "thread": [
+        {
+          "who": "关关（不息内容）",
+          "kind": "user",
+          "text": "笔记状态=初稿，执行进度=达人修改中，预估发布日期=2026/11/12，实际发布日为空。",
+          "t": "11-12"
+        }
+      ]
+    },
+    {
+      "id": "k-dec-slot",
+      "kind": "assign",
+      "roleTag": "媒介",
+      "source": "每天雅萌日报 · 11月12日 十二月份定档进度",
+      "boardPin": "content-board",
+      "title": "12月定档缺口：盟 6/18、送礼仍差 7p",
+      "body": "12月定档（11/12 日报，51任静）：小红星 18/22（81%），费用 6.2 万/6.6 万（93%）；小红盟 6/18（33%），费用 1.2 万/4 万（30%）。缺口：打卡实测 2p（小红盟 2p）、素人口碑 5p（星 2p + 盟 3p）、送礼 7p（盟 3p + 星 4p）、老爸评测+李佳琦+女明星二传 2p（小红盟 2p）。执行表里 12 月目前 24 行（星 18 + 盟 6），尚无已发布。",
+      "nodes": [
+        {
+          "t": "11-11",
+          "text": "星 18/22、盟 6/18；缺口素人口碑 7p、送礼 7p、打卡 2p、二传 2p。",
+          "traceUrl": "https://qmfhs4392h.feishu.cn/wiki/P5CkwmjWDiT4T7kYdijcwJvFnge"
+        },
+        {
+          "t": "11-12",
+          "text": "篇数进度不变；素人口碑缺口从 7p 收到 5p（星 2p、盟 3p），送礼仍为 7p。",
+          "traceUrl": "https://qmfhs4392h.feishu.cn/wiki/P5CkwmjWDiT4T7kYdijcwJvFnge"
+        }
+      ],
+      "trace": {
+        "group": "每天雅萌日报",
+        "time": "11-12",
+        "who": "51(任静)",
+        "summary": "12 月小红盟定档只有 33%，送礼还差 7 篇。",
+        "text": "小红盟k：篇数进度6/18，进度33%；费用1.2W/4W，进度30%。缺口送礼 7p。"
+      },
+      "health": "danger",
+      "healthLab": "紧急",
+      "assignee": "Acy（陈晨），51（任静）",
+      "next": "补小红盟定档，优先送礼与二传缺口。",
+      "due": null,
+      "resolved": false,
+      "notified": false,
+      "thread": [
+        {
+          "who": "51(任静)",
+          "kind": "user",
+          "text": "小红盟k：篇数进度6/18，进度33%；费用1.2W/4W，进度30%。缺口送礼 7p。",
+          "t": "11-12"
+        }
+      ]
+    },
+    {
+      "id": "k-delay-jan27",
+      "kind": "handoff",
+      "roleTag": "媒介",
+      "source": "达人挪档期+赔付",
+      "boardPin": "content-board",
+      "title": "19 档挪到 2027 年 1 月，1 档取消合作",
+      "body": "「达人挪档期+赔付」表 20 行：19 人客户需求为「挪到27年1月」（多为老爸评测二传、李佳琦 offer、打卡实测等），1 人「菠菜姐姐」品牌最终反馈为「取消合作、无需赔付」。多条达人反馈「不保价」；门婕裂夫、黑橘发福了等注明需赔付。两位「正常推进」（门婕裂夫、Meera蜜拉），其余品牌反馈多为「挪档期」。",
+      "nodes": [
+        {
+          "t": "表",
+          "text": "19 挪至 2027/1，1 取消合作；多条不保价、部分需赔付。",
+          "traceUrl": "https://qmfhs4392h.feishu.cn/wiki/H4C3wrWZniZeu1k9cvtc8SxbnLf"
+        }
+      ],
+      "trace": {
+        "group": "Y26不息闪修仪K合作执行表 · 达人挪档期+赔付",
+        "time": "2026-11-12 拉取",
+        "who": null,
+        "summary": "大批 KOL 档期挪到明年 1 月。",
+        "text": "客户需求列：挪到27年1月 ×19，取消 ×（黑橘发福了等需求为取消；菠菜姐姐最终取消合作）。"
+      },
+      "health": "warn",
+      "healthLab": "需关注",
+      "assignee": "Acy（陈晨），51（任静）",
+      "next": "把保价/赔付清单和 1 月可排档对齐给 PM。",
+      "due": null,
+      "resolved": false,
+      "notified": false,
+      "thread": [
+        {
+          "who": "暂无",
+          "kind": "user",
+          "text": "客户需求列：挪到27年1月 ×19，取消 ×（黑橘发福了等需求为取消；菠菜姐姐最终取消合作）。",
+          "t": "2026-11-12 拉取"
+        }
+      ]
+    },
+    {
+      "id": "fs-stale",
+      "kind": "assign",
+      "roleTag": "运营",
+      "source": "Y26-雅萌闪修仪-【不息小红盟投流】· 02 实时消耗进度表+投流UV",
+      "boardPin": "weekly-report",
+      "title": "投流 FS 实际消耗停在 10/19",
+      "body": "实时消耗表每日「账户实际消耗」最后一笔可靠数为 2026/10/19（¥14,216.22，F ¥9,358.27 · S ¥4,710.23）。10/20 仅 ¥105.97（规划 ¥15,000），不像正常日耗；10/21 起实际消耗为空，CID 表同样在 10/19 后归零。YTD（1/24–10/19）账户消耗 ¥1,687,629.87（F ¥1,238,589.72 · S ¥431,607.44）；现金结算 ¥1,661,335.22（F ¥1,227,582.09 · S ¥430,691.84）。双 11 期间及 11 月 FS 在这张表里还没有数。",
+      "nodes": [
+        {
+          "t": "10-19",
+          "text": "最后一天完整日耗：账户 ¥14,216.22（F 9,358.27 · S 4,710.23）。",
+          "traceUrl": "https://qmfhs4392h.feishu.cn/wiki/SMezwVo1OiA2QXkAQ7lcm8VOnge"
+        },
+        {
+          "t": "10-21",
+          "text": "10/21 起账户实际消耗为空，仅残留规划与个别异常现金格。",
+          "traceUrl": "https://qmfhs4392h.feishu.cn/wiki/SMezwVo1OiA2QXkAQ7lcm8VOnge"
+        }
+      ],
+      "trace": {
+        "group": "投流表",
+        "time": "数据截至 10-19",
+        "who": null,
+        "summary": "FS 实际消耗没有 10/19 之后的可靠数。",
+        "text": "current_region A1:AY285，最后有实际消耗的日期 2026/10/19。"
+      },
+      "health": "warn",
+      "healthLab": "需关注",
+      "assignee": "邹文（周文健）",
+      "next": "核对 10/20 后为何未录入，补 10 月下旬和 11 月日耗。",
+      "due": null,
+      "resolved": false,
+      "notified": false,
+      "thread": [
+        {
+          "who": "暂无",
+          "kind": "user",
+          "text": "current_region A1:AY285，最后有实际消耗的日期 2026/10/19。",
+          "t": "数据截至 10-19"
+        }
+      ]
+    }
+  ],
+  "meetTodos": [
+    {
+      "id": "mt-xinghe-uv",
+      "title": "淘宝星河进店 UV／GMV 重新拉取核验",
+      "meeting": "20261106 雅萌闪修 Y26 D11 复盘初稿评审（周会目录）",
+      "date": "11-06",
+      "owner": "纪要未点名（数据规范）",
+      "status": "todo",
+      "statusLab": "待跟进",
+      "source": "会议纪要 · 复盘基础信息校准",
+      "summary": "纪要：淘宝星河导出的进店 UV、GMV 重复计算、可信度低，先标记暂不使用，后续需重新拉取核验。",
+      "url": "https://qmfhs4392h.feishu.cn/wiki/RynawrJtqiK1c4k3hS1crLIPnrY"
+    },
+    {
+      "id": "mt-kfs-split",
+      "title": "总投入按 K / FS / CID 拆分，249.9 万按 KFS 合并口径",
+      "meeting": "20261106 复盘初稿评审",
+      "date": "11-06",
+      "owner": "纪要未点名",
+      "status": "todo",
+      "statusLab": "待跟进",
+      "source": "会议纪要 · 费用维度拆分",
+      "summary": "明确 249.9 万计划预算为 KFS 合并口径，同时拆小红星、小红盟费用明细。此 249.9 万只在纪要里出现，投流表/执行表里尚未对上同一单元格，未写入 snapshot.budget。",
+      "url": "https://qmfhs4392h.feishu.cn/wiki/RynawrJtqiK1c4k3hS1crLIPnrY"
+    },
+    {
+      "id": "mt-period",
+      "title": "复盘统计周期统一为 9/1–10/31，7–8 月单独标注",
+      "meeting": "20261106 复盘初稿评审",
+      "date": "11-06",
+      "owner": "龚晓婷",
+      "status": "todo",
+      "statusLab": "待跟进",
+      "source": "会议纪要",
+      "summary": "全复盘核心统计周期 9 月 1 日–10 月 31 日；并用群内新同步的四个时间节点划分。",
+      "url": "https://qmfhs4392h.feishu.cn/wiki/RynawrJtqiK1c4k3hS1crLIPnrY"
+    },
+    {
+      "id": "mt-align-wed",
+      "title": "预约下周三 10:30–12:00 复盘对齐会",
+      "meeting": "20261106 复盘初稿评审",
+      "date": "11-06",
+      "owner": "江寅(文静)",
+      "status": "todo",
+      "statusLab": "待核对是否已开",
+      "source": "会议纪要末条",
+      "summary": "11/06 纪要：预约下周三上午 10:30–12:00（即 11/11）复盘对齐。拉取日是 11/12，是否已开、结论如何，本快照未再核。",
+      "url": "https://qmfhs4392h.feishu.cn/wiki/RynawrJtqiK1c4k3hS1crLIPnrY"
+    }
+  ],
+  "kpiItems": [
+    {
+      "id": "kpi-k-nov-pub",
+      "name": "11月K发布篇数",
+      "target": 34,
+      "actual": 23,
+      "better": "high",
+      "unit": "",
+      "note": "小红星；含 10 月 delay 1。来自 11/12 日报与执行表，一致。",
+      "asOf": "2026-11-12",
+      "source": "每天雅萌日报 / 11月K合作执行表"
+    },
+    {
+      "id": "kpi-k-nov-fee",
+      "name": "11月K费用（品牌结算价）",
+      "target": 32481.9,
+      "actual": 25204.23,
+      "better": "high",
+      "unit": "¥",
+      "note": "已发布行结算价合计 / 34 行合计。日报写 2.52 万/3.25 万（77.53%），表算 77.6%。",
+      "asOf": "2026-11-12",
+      "source": "11月K合作执行表（34）"
+    },
+    {
+      "id": "kpi-dec-star-slot",
+      "name": "12月小红星定档篇数",
+      "target": 22,
+      "actual": 18,
+      "better": "high",
+      "unit": "",
+      "note": "日报：进度 81%；费用 6.2 万/6.6 万（93%）。",
+      "asOf": "2026-11-12",
+      "source": "每天雅萌日报 11月12日"
+    },
+    {
+      "id": "kpi-dec-meng-slot",
+      "name": "12月小红盟定档篇数",
+      "target": 18,
+      "actual": 6,
+      "better": "high",
+      "unit": "",
+      "note": "日报：进度 33%；费用 1.2 万/4 万（30%）。",
+      "asOf": "2026-11-12",
+      "source": "每天雅萌日报 11月12日"
+    },
+    {
+      "id": "kpi-sov",
+      "name": "SOV（微电流美容仪）",
+      "target": null,
+      "actual": "TOP1",
+      "better": "high",
+      "unit": "",
+      "note": "「闪修KPI（同周报）」写 38 数据 TOP1、最新数据 TOP1；表头「截止 6.3」，不是 11 月数。仅作历史监测，不作为当前考核。",
+      "asOf": "约 2026-06-03（表内标注，未写更近日）",
+      "source": "雅萌闪修｜KPI · 闪修KPI（同周报）",
+      "stale": true
+    }
+  ],
+  "members": [
+    {
+      "id": "m-tutu",
+      "name": "图图（胡爱茹）",
+      "role": "项目PM",
+      "openid": "ou_49bce3f2921f67917efcb1a872368a14"
+    },
+    {
+      "id": "m-acy",
+      "name": "Acy（陈晨）",
+      "role": "媒介",
+      "openid": "ou_9e978aefbfd3fed7e66f7895eec876f0"
+    },
+    {
+      "id": "m-51",
+      "name": "51（任静）",
+      "role": "媒介",
+      "openid": "ou_d155f330b74f8414a4de21e969c001f8"
+    },
+    {
+      "id": "m-qin",
+      "name": "芹菜（帅琴剑）",
+      "role": "内容",
+      "openid": "ou_4793e25dd2f07bfeb2fa4a664136b5b5"
+    },
+    {
+      "id": "m-zou",
+      "name": "邹文（周文健）",
+      "role": "运营",
+      "openid": "ou_01bd799888c1cc0838b3403e8021fd49"
+    }
+  ],
+  "stakeholders": [
+    {
+      "id": "m-tutu",
+      "name": "图图（胡爱茹）",
+      "role": "项目PM",
+      "openid": "ou_49bce3f2921f67917efcb1a872368a14"
+    },
+    {
+      "id": "m-acy",
+      "name": "Acy（陈晨）",
+      "role": "媒介",
+      "openid": "ou_9e978aefbfd3fed7e66f7895eec876f0"
+    },
+    {
+      "id": "m-51",
+      "name": "51（任静）",
+      "role": "媒介",
+      "openid": "ou_d155f330b74f8414a4de21e969c001f8"
+    },
+    {
+      "id": "m-qin",
+      "name": "芹菜（帅琴剑）",
+      "role": "内容",
+      "openid": "ou_4793e25dd2f07bfeb2fa4a664136b5b5"
+    },
+    {
+      "id": "m-zou",
+      "name": "邹文（周文健）",
+      "role": "运营",
+      "openid": "ou_01bd799888c1cc0838b3403e8021fd49"
+    }
+  ],
+  "execPlanActual": {
+    "media": [
+      {
+        "id": "nov-order",
+        "title": "11月下单／定档（小红星）",
+        "plan": "34",
+        "actual": "34",
+        "light": "ok",
+        "lightLab": "已齐",
+        "warn": "",
+        "warnCls": "",
+        "summary": "应下 34 · 已下 34 · 全部小红星；与 11/12 日报「定档 34/34、费用 3.25 万/3.25 万」一致",
+        "std": true,
+        "nodes": [],
+        "source": "11月K合作执行表（34）· 是否下单=是 ×34",
+        "asOf": "2026-11-12"
+      },
+      {
+        "id": "dec-slot",
+        "title": "12月定档",
+        "plan": "星 22 + 盟 18",
+        "actual": "星 18 + 盟 6",
+        "light": "danger",
+        "lightLab": "未齐",
+        "warn": "⚠ 小红盟 6/18（33%）；送礼缺口 7p",
+        "warnCls": "late",
+        "summary": "日报口径：星 18/22（81%，费用 6.2/6.6 万）· 盟 6/18（33%，费用 1.2/4 万）",
+        "std": true,
+        "nodes": [
+          {
+            "n": "打卡实测",
+            "plan": "2p 小红盟",
+            "actual": "—",
+            "st": "缺口"
+          },
+          {
+            "n": "素人口碑",
+            "plan": "5p（星2+盟3）",
+            "actual": "—",
+            "st": "缺口（11/11 曾为 7p）"
+          },
+          {
+            "n": "送礼",
+            "plan": "7p（盟3+星4）",
+            "actual": "—",
+            "st": "缺口"
+          },
+          {
+            "n": "老爸评测+李佳琦+女明星二传",
+            "plan": "2p 小红盟",
+            "actual": "—",
+            "st": "缺口"
+          }
+        ],
+        "source": "每天雅萌日报 11月12日 三、【12月定档进度】",
+        "asOf": "2026-11-12"
+      },
+      {
+        "id": "delay-jan",
+        "title": "达人异常挪档／取消",
+        "plan": "跟踪",
+        "actual": "19 挪至 2027/1 · 1 取消",
+        "light": "danger",
+        "lightLab": "危机",
+        "warn": "⚠ 多条不保价、部分需赔付",
+        "warnCls": "late",
+        "summary": "挪档 19 · 取消合作 1（菠菜姐姐，无需赔付）· 见「达人挪档期+赔付」",
+        "std": true,
+        "nodes": [
+          {
+            "n": "老爸评测二传（美娜Richeee、是胖仔呀、美少驴的草稿箱、就叫米米叭M 等）",
+            "plan": "—",
+            "actual": "挪到 27 年 1 月",
+            "st": "多条不保价"
+          },
+          {
+            "n": "菠菜姐姐 · 李佳琦 offer 直推",
+            "plan": "—",
+            "actual": "取消合作",
+            "st": "无需赔付"
+          },
+          {
+            "n": "门婕裂夫",
+            "plan": "—",
+            "actual": "挪到 27 年 1 月",
+            "st": "正常推进 · 初稿需赔付"
+          }
+        ],
+        "source": "达人挪档期+赔付 A1:U21",
+        "asOf": "2026-11-12"
+      }
+    ],
+    "content": [
+      {
+        "id": "nov-publish",
+        "title": "11月实际发布",
+        "plan": "34（预估发布日都已填）",
+        "actual": "23",
+        "light": "warn",
+        "lightLab": "进行中",
+        "warn": "⚠ 剩余 11 篇均为素人使用反馈出镜版，最早档 11/12 米斯特特仍为初稿",
+        "warnCls": "risk",
+        "summary": "计划 34 · 已发 23 · 未发 11 · 费用 25,204 / 32,482",
+        "std": true,
+        "nodes": [
+          {
+            "n": "米斯特特",
+            "plan": "2026/11/12",
+            "actual": "—",
+            "st": "初稿 · 达人修改中"
+          },
+          {
+            "n": "是阿琳不是007",
+            "plan": "2026/11/13",
+            "actual": "—",
+            "st": "未填状态"
+          },
+          {
+            "n": "胖虎的UN",
+            "plan": "2026/11/14",
+            "actual": "—",
+            "st": "未填状态"
+          },
+          {
+            "n": "汤不甜",
+            "plan": "2026/11/15",
+            "actual": "—",
+            "st": "初稿 · 达人修改中"
+          },
+          {
+            "n": "傲娇小龙女",
+            "plan": "2026/11/16",
+            "actual": "—",
+            "st": "初稿 · 达人修改中"
+          },
+          {
+            "n": "特能装的婷婷",
+            "plan": "2026/11/17",
+            "actual": "—",
+            "st": "未填状态"
+          },
+          {
+            "n": "原来是老财呀！",
+            "plan": "2026/11/18",
+            "actual": "—",
+            "st": "初稿 · 达人创作中"
+          },
+          {
+            "n": "芦荟胶啊",
+            "plan": "2026/11/19",
+            "actual": "—",
+            "st": "初稿 · 达人创作中"
+          },
+          {
+            "n": "溪沐宝宝",
+            "plan": "2026/11/20",
+            "actual": "—",
+            "st": "未填状态"
+          },
+          {
+            "n": "星尧尧",
+            "plan": "2026/11/21",
+            "actual": "—",
+            "st": "未填状态"
+          },
+          {
+            "n": "麦麦巨好运",
+            "plan": "2026/11/22",
+            "actual": "—",
+            "st": "未填状态"
+          }
+        ],
+        "source": "11月K合作执行表（34）实际发布日日期 / 笔记状态 / 预估发布日期",
+        "asOf": "2026-11-12"
+      },
+      {
+        "id": "nov-cats",
+        "title": "11月内容类型进度",
+        "plan": "沉浸式 1 · 到货晒单 8 · 询问帖 3 · 使用反馈 22",
+        "actual": "1/1 · 8/8 · 3/3 · 11/22",
+        "light": "warn",
+        "lightLab": "使用反馈未齐",
+        "warn": "",
+        "warnCls": "",
+        "summary": "前三类已齐；使用反馈出镜版 11/22",
+        "std": true,
+        "nodes": [],
+        "source": "每天雅萌日报 11月12日",
+        "asOf": "2026-11-12"
+      }
+    ],
+    "ops": [
+      {
+        "id": "fs-cutoff",
+        "title": "投流 FS 日耗录入",
+        "plan": "按日更新至当日",
+        "actual": "停在 2026-10-19",
+        "light": "danger",
+        "lightLab": "断数",
+        "warn": "⚠ 双 11 与 11 月 FS 在实时消耗表无实际数",
+        "warnCls": "late",
+        "summary": "最后可靠日耗 10/19 ¥14,216；10/21 后为空",
+        "std": true,
+        "nodes": [
+          {
+            "n": "10/19",
+            "plan": "¥12,000",
+            "actual": "¥14,216.22",
+            "st": "F 9,358 · S 4,710"
+          },
+          {
+            "n": "10/20",
+            "plan": "¥15,000",
+            "actual": "¥105.97",
+            "st": "疑似残值，未当作正常日耗"
+          },
+          {
+            "n": "10/21 起",
+            "plan": "有规划",
+            "actual": "—",
+            "st": "账户实际消耗空"
+          }
+        ],
+        "source": "02 实时消耗进度表+投流UV",
+        "asOf": "2026-10-19"
+      }
+    ]
+  },
+  "overviewCards": [
+    {
+      "id": "spend",
+      "label": "FS 现金累计 / 规划合计",
+      "value": "166.1 / 172.8",
+      "unit": "万元",
+      "note": "1/24–10/19 · 规划非正式预算包",
+      "asOf": "2026-10-19"
+    },
+    {
+      "id": "k-nov",
+      "label": "11月K已发 / 应发",
+      "value": "23 / 34",
+      "unit": "篇",
+      "note": "费用 2.52 / 3.25 万",
+      "asOf": "2026-11-12"
+    },
+    {
+      "id": "k-dec",
+      "label": "12月定档 星 / 盟",
+      "value": "18/22 · 6/18",
+      "unit": "篇",
+      "note": "费用 6.2/6.6 万 · 1.2/4 万",
+      "asOf": "2026-11-12"
+    },
+    {
+      "id": "effect",
+      "label": "CPUV / UV",
+      "value": "—",
+      "unit": "",
+      "note": "KPI 表最新格空；星河数暂不用",
+      "asOf": "2026-11-12"
+    }
+  ],
+  "sources": [
+    {
+      "name": "每天雅萌日报（当前节点）",
+      "kind": "report",
+      "token": "P5CkwmjWDiT4T7kYdijcwJvFnge",
+      "obj": "VIeRdiIC0ooi5UxrNwacf5IDnAc",
+      "url": "https://qmfhs4392h.feishu.cn/wiki/P5CkwmjWDiT4T7kYdijcwJvFnge",
+      "asOf": "2026-11-12",
+      "note": "晨间树里的 FVu7w3Ix0i6TefkmnPrc20z9nyK 已被删，现节点 11:33 重列得到"
+    },
+    {
+      "name": "Y26-雅萌闪修仪-【不息小红盟投流】",
+      "kind": "sheet",
+      "token": "SMezwVo1OiA2QXkAQ7lcm8VOnge",
+      "spreadsheet": "C2rJsC5hKhSagKt0smlcCwqUnFg",
+      "url": "https://qmfhs4392h.feishu.cn/wiki/SMezwVo1OiA2QXkAQ7lcm8VOnge",
+      "sheetsUsed": [
+        "02 实时消耗进度表+投流UV",
+        "CID 消耗",
+        "TTL预算",
+        "01 预算规划表（隐）"
+      ]
+    },
+    {
+      "name": "Y26不息闪修仪K合作执行表",
+      "kind": "sheet",
+      "token": "H4C3wrWZniZeu1k9cvtc8SxbnLf",
+      "spreadsheet": "IN6wsxSmYhtHgvtNucpcZIeun3e",
+      "url": "https://qmfhs4392h.feishu.cn/wiki/H4C3wrWZniZeu1k9cvtc8SxbnLf",
+      "sheetsUsed": [
+        "11月K合作执行表（34）",
+        "12月K合作执行表",
+        "达人挪档期+赔付"
+      ]
+    },
+    {
+      "name": "雅萌闪修｜KPI",
+      "kind": "sheet",
+      "token": "FAHGw2ZdHi6pYFkwpmzc38aXnjf",
+      "spreadsheet": "KdCisgrJthWGl4tBNZecanVdnXA",
+      "url": "https://qmfhs4392h.feishu.cn/wiki/FAHGw2ZdHi6pYFkwpmzc38aXnjf",
+      "sheetsUsed": [
+        "闪修KPI（同周报）",
+        "成本指标"
+      ],
+      "note": "主要是 Q1/Q2 策略与截止 6.3 的监测，成本指标几乎空"
+    },
+    {
+      "name": "01 项目信息基础表",
+      "kind": "sheet",
+      "token": "N5mpwvLCaibbyBkqjc3cRC9qnpd",
+      "spreadsheet": "Df0YsQcBEhmHyStIrJbc3sAEnyd",
+      "note": "空表，只有表头"
+    },
+    {
+      "name": "02 项目成员信息表",
+      "kind": "sheet",
+      "token": "Hhntw2nQnipZNMkrEQwczk9vnFh",
+      "spreadsheet": "KeCDsZF8rhbwRwtTNi6cEc1jnDh",
+      "asOf": "2026-11-04",
+      "note": "项目名写成「雅萌闪修侠Pro」；商务姓名空"
+    },
+    {
+      "name": "20261106 会议纪要",
+      "kind": "minutes",
+      "obj": "HZczdibxJoDrzax5gDxcuj9Qn9f",
+      "parentWiki": "RynawrJtqiK1c4k3hS1crLIPnrY",
+      "url": "https://qmfhs4392h.feishu.cn/docx/HZczdibxJoDrzax5gDxcuj9Qn9f"
+    },
+    {
+      "name": "雅萌闪修仪Pro项目根",
+      "kind": "wiki",
+      "token": "RVpXwPxbyi415ZkJIozcakPbnog",
+      "url": "https://qmfhs4392h.feishu.cn/wiki/RVpXwPxbyi415ZkJIozcakPbnog"
+    },
+    {
+      "name": "data-yameng-pro-snapshot.json",
+      "kind": "local"
+    }
+  ]
+}
